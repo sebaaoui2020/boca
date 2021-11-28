@@ -1,1 +1,64 @@
+{
+    "Ads": {
+        "AdMob": {
+            "activated": false,
+            "banner": "ca-app-pub-3940256099942544/6300978111",
+            "native": "ca-app-pub-3940256099942544/2247696110",
+            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+        },
+        "FAN": {
+            "activated": false,
+            "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        },
+        "ironSource": {
+            "activated": false,
+            "app_key": "11dae943d"
+        },
+        "Tapdaq": {
+            "activated": true,
+            "AppId": "619f526486c31c4e07c1134c",
+            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+        },
+        "Yandex": {
+            "banner": "R-M-1355917-2",
+            "native": "R-M-1355917-3",
+            "interstitial": "R-M-1355917-1"
+        }
+    },
+    "Config": {
+        "app_version": "1.0",
+        "package_name": "com.toto.kata",
+        "rattingIsEnabled": false
+    },
+    "Privacy": {
+        "isEnabled": true,
+        "title": "Privacy Policy",
+        "message": "Privacy Policy Message",
+        "url": "https://sites.google.com/view/toca-tips/home"
+    },
+    "GuideContent": [
+        {
+            "title": "Tips 1",
+            "description": "Check for Concealed Buttons or Switches:Switches or buttons are two of the commonly used elements in Toca Life World PC. Finding and activating these buttons will trigger an in-game event or open a secret room. With that said, it is important to perform a thorough search for a specific room when exploring. Making exploration a regular part of your playthrough will up your chances of discovering something cool in the game. "
+        },
+        {
+            "title": "Tips 2",
+            "description": ""A Clean Pet is a Great Pet:You can choose from hundreds of pets in Toca Life World PC. Just like in real life pets in this game mostly like to play in the mud. If this happens, all you need to do is dip your dirty pet in water.can also get a sponge to wipe off the dirt from your loyal companion. "
+        },
+        {
+            "title": "tips 3",
+            "description": "Become a Gross Master Chef:Toca Life World PC also features a diverse collection of restaurants for you to explore. The best part about these restaurants is that you can create your own signature meal in the game. As interesting as that may sound, not all restaurants come with high-end menus and fresh ingredients. One example of these types of restaurants is the Pet Shop that will allow you to combine various pet foods. "
+        },
+        {
+            "title": "tips 4 ",
+            "description": "It’s really like a giant playset that reminds me of something like Playmobil or a dollhouse, and I’m always amazed at how intuitive things are using only tapping and drag-and-drop. For instance, you can put things into suitcases, then pick up the suitcase and put it in somebody’s hand. If you plop a person onto a chair, they sit; if you put them on a bed, they lie down and go to sleep."
 
+        },
+        {
+            "title": "Tips 5",
+            "description": "My kids have also found that each of the Toca Life apps has some hidden secrets that you can find. For instance, the Hospital also includes the lair of a mad scientist, who appears to be making all sorts of sloth hybrids, many of which you’ll find scattered throughout the app. (There seem to be a lot of sloths in the Toca Boca apps.) But you’ll have to figure out where the lair is—and even when you find it, it’s a bit tricky to get inside. "
+        }
+    ]
+}
