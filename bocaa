@@ -17,9 +17,9 @@
             "app_key": "11dae943d"
         },
         "Tapdaq": {
-            "activated": false,
-            "AppId": "619f526486c31c4e07c1134c",
-            "ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+            "activated": true,
+            "AppId": "61af6b2686c31c4e07c1142e",
+            "ClientKey": "a0de977b-7f00-4f74-9162-f8f24624e1da"
         },
         "Yandex": {
             "banner": "R-M-1407315-3",
