@@ -17,7 +17,7 @@
             "app_key": "11dae943d"
         },
         "Tapdaq": {
-            "activated": true,
+            "activated": false,
             "AppId": "61af6b2686c31c4e07c1142e",
             "ClientKey": "a0de977b-7f00-4f74-9162-f8f24624e1da"
         },
