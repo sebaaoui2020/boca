@@ -1,10 +1,10 @@
 {
     "Ads": {
         "AdMob": {
-            "activated": false,
-            "banner": "ca-app-pub-3940256099942544/6300978111",
-            "native": "ca-app-pub-3940256099942544/2247696110",
-            "interstitial": "ca-app-pub-3940256099942544/1033173712"
+            "activated": true,
+            "banner": "ca-app-pub-1267068510215391/4654131151",
+            "native": "ca-app-pub-1267068510215391/6992396176",
+            "interstitial": "ca-app-pub-1267068510215391/2027967818"
         },
         "FAN": {
             "activated": false,
